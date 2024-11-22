@@ -1,6 +1,6 @@
 # Core dependencies for Flask and hosting
 Flask==2.3.2
-Flask-Cors==3.0.10  # To handle Cross-Origin Resource Sharing
+Flask-Cors==3.0.10
 
 # Machine learning and data processing
 numpy==1.26.0
@@ -16,19 +16,15 @@ seaborn==0.12.2
 # Deep learning (if applicable)
 tensorflow==2.14.0
 torch==2.1.0
-torchvision==0.16.0  # For PyTorch
+torchvision==0.16.0
 
 # For API and backend communication
 requests==2.31.0
-gunicorn==21.2.0  # Production WSGI server for Flask
-
-# Serialization and model saving
-pickle5==0.0.13
-pydantic==2.2.2
+gunicorn==21.2.0
 
 # Deployment-related packages
-psycopg2-binary==2.9.8  # For PostgreSQL database (used by Render)
-python-dotenv==1.0.0  # For environment variable management
+psycopg2-binary==2.9.8
+python-dotenv==1.0.0
 
 # Optional tools for monitoring and debugging
 flask-debugtoolbar==1.0.0
