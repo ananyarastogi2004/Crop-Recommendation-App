@@ -19,6 +19,34 @@ productivity. Together, these features support a holistic approach to modern
 agriculture, blending technology with traditional practices to meet the challenges of 
 today’s farming.
 
+# App Screenshots
+
+<p style="margin-bottom: 40px;">
+<div style="display: flex; flex-direction: row;">
+  <img src="App ScreenShots/Home.png" width="150" />
+   &nbsp;
+  <img src="App ScreenShots/Navigation.png" width="150" />
+   &nbsp;
+  <img src="App ScreenShots/blog1.png"  width="150" />
+   &nbsp;
+  <img src="App ScreenShots/blog2.png"  width="150" />
+   &nbsp;
+  <img src="App ScreenShots/crop1.png"  width="150" />
+   &nbsp;
+  <img src="App ScreenShots/crop2.png"  width="150" />
+   &nbsp;
+  <img src="App ScreenShots/label1.png"  width="150" />
+   &nbsp;
+   <img src="App ScreenShots/label2.png"  width="150" />
+   &nbsp;
+  <img src="App ScreenShots/label3.png"  width="150" />
+   &nbsp;
+  <img src="App ScreenShots/weather1.png"  width="150" />
+    &nbsp;
+  <img src="App ScreenShots/weather2.png"  width="150" />
+</div>
+</p>
+
 # Key Features of App
 1. **Crop Recommendation System:**
    
